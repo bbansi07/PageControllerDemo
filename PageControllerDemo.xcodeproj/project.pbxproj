@@ -299,6 +299,7 @@
 				DCD5E5711E93788A00DD6466 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
